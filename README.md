@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page
 
-Here is our ![website](https://muradov.net).
+Here is our [website](https://muradov.net "website").
 
 ![My setup](./media/setup.png)
 
